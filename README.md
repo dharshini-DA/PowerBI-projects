@@ -8,7 +8,7 @@ Welcome to my repository of Power BI projects! This repository contains multiple
  Project 1: Sales Analysis <br/>
  Summary: A deep dive into sales data, aimed at extracting valuable insights to enhance strategic decision-making <br/>
  Project 2: HR Analytics  <br/>
- Summary: Delving into the world of human resources, with a keen eye on data analysis to optimize talent management and organizational performance
+ Summary: Delving into the world of human resources, with a keen eye on data analysis to optimize talent management and organizational performance</br>
  Project 3: Call centre analysis  <br/>
  Summary: Exploring the dynamics of call center operations through data-driven insights, with a focus on enhancing customer experience, agent performance, and operational efficiency </br>
  # Future Updates
